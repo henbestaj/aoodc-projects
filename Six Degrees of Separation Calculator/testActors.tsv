@@ -1,0 +1,14 @@
+nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
+a1	Kris	1900	1905	actor	t1,t2
+a2	Sara	1900	1905	actor	t2,t3
+a3	Sandy	1900	1905	actor	t3
+a10	Actor1	2000	3000	actress	t10
+a11	Actor2	2000	3000	actor	t10
+a12	Actor3	2000	3000	actress	t11
+a13	Actor4	2000	3000	actor	t10,t12
+a14	Actor5	2000	3000	actress	t10,t12
+a15	Actor6	2000	3000	actor	t12,t14
+a16	Actor7	2000	3000	actress	t10,t13
+a17	Actor8	2000	3000	actor	t12,t13
+a18	Actor9	2000	3000	actress	t14,t15
+a19	Actor10	2000	3000	actor	t14,t15
